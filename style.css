@@ -1,0 +1,29 @@
+.pirmas{
+    background-color: dimgrey;
+    color: white;
+    border: 1px solid black;
+    height: 50px;
+}
+.antras{
+    background-color: black;
+    color: white;
+    border: 1px solid black;
+    height: 20px;
+}
+.trecia{
+    background-color: lightslategrey;
+    height: 100px;
+}
+.flexPirmas{
+    display: flex;
+    flex-direction: row;
+    align-content: space-between;
+}
+.FlexAntras{
+    display: flex;
+    flex-wrap: nowrap;
+}
+.mygtukas{
+    display:block;
+    height: 20px;
+}
